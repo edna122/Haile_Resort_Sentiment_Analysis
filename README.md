@@ -28,9 +28,6 @@ Getting Started
 
 Dependencies
 
-Usage
-
-Contributing
 
 Abstract
 
